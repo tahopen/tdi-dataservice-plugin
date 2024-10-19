@@ -1,4 +1,4 @@
-PDI DATA SERVICE CLIENT
+TDI Data Service Client
 ========================================
 
 Objective
@@ -12,13 +12,12 @@ Creating data services is an enterprise-only feature.
 How to build
 --------------
 
-PDI DATA SERVICE CLIENT uses the maven framework. 
+TDI DATA SERVICE CLIENT uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
 * Maven, version 3+
 * Java JDK 11
-* This [settings.xml](https://raw.githubusercontent.com/pentaho/maven-parent-poms/master/maven-support-files/settings.xml) in your <user-home>/.m2 directory
 
 #### Building it
 
