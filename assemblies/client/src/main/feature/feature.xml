@@ -3,7 +3,7 @@
 
     <details>${project.description}</details>
 
-    <feature>pentaho-base</feature>
+    <feature>tahopen-base</feature>
 
   </feature>
 </features>
